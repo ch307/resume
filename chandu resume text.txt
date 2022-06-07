@@ -1,0 +1,91 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My Profile</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+ 
+  <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet"></head>
+  <body>
+
+    <div class="main-nav">
+        <ul class="nav">
+          <li class="name">BUGATA CHANDRASEKHAR</li>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Experience</a></li>
+        </ul>
+    </div>
+
+    <header>
+      <h1 class="tag name">My Personal Profile</h1>
+      <h2 class="tag location">I'm CHANDU</h2>
+    </header>
+
+    <main class="flex">
+      <div class="card">
+        <h2>Personal Detail</h2>
+        <p>Date of birth : 09-08-2002</p>
+        <p>Father name : B.krishnamurty</p>
+        <p>Mother name : B.Bharathi</p>
+        <p>Nationality : Indian</p>
+        <p>Age : 19</p>
+        <p> Gender : Male</p>
+        <p>Religion : Hindu</p>
+        <h2>Educational Details</h2>
+        <p>• 2016-2017 : Studied SSC at Abhyudaya High School and secured 97% marks.</p>
+        <p>• 2017-2019 : Studied Intermediate at Narayana Jr.College and secured 94% marks</p>
+        <p>• 2019-2023 : Pursued my Bachelor's degree in computer science at Adikavi Nannaya University</p> 
+      </div> 
+
+      <div class="card">
+        <h2>Professional Skills</h2>
+        <p>• Languages Known :
+        <ul class="skills">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>C</li>
+          <li>R</li>
+          <li>Python</li>
+        </ul>
+        <p>•I am also familiar with Wordpress</p>
+        <h2>Projects worked in </h2>
+        <p> • A project on self driving car using python.</p>
+        <p> • A project on FloodGuard using IOT.
+        <P> • A project on FIFA palyer analysis using ML with python
+
+        <h2> Certification courses</h2>
+        <p>  •   Completed Software Testing Fundamentals.
+        <p>  •   Completed Python programming for beginners.
+        <p>  •   Completed a course on How to build a social network using python.
+        <h2>Strengths</h2>
+        <p>• I will always be committed to the work.</p> 
+        <p>• I want to expand my skills for that I will work hard.</p>
+        <p>• I’d love to work for a new projects.</p>
+        
+        <h2> Extra curricular activities</h2>
+        <p> •   I am Representative and Club Co-ordinator of our class
+        <p> •   Worked as a director for a shortfilm.
+        <p> •   Participated in many dance competitions .
+        <p> •   Active member of NSS .
+        <p> •   Organised many club events in our college.</p>
+        <h2>Hobbies</h2>
+        <p> • Dance.
+        <p> • Playing badminton, cricket.
+        <p> • Watching movie  
+        <p> • Travelling          
+
+        <h2> Languages known:</h2>
+        <p>  • ENGLISH.
+        <p>  • TELUGU.
+        <p>  • HINDI  </p>
+         
+        
+      </div> 
+
+    </main>
+    
+    
+  </body>
+  </html>
